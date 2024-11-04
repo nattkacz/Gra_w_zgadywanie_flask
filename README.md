@@ -1,6 +1,6 @@
 # Gra_w_zgadywanie_flask
 
-Ten projekt aplikacja webowa w Flasku, która implementuje grę „Zgadnij liczbę”, gdzie komputer zgaduje liczbę wybraną przez użytkownika z przedziału od 0 do 1000. Użytkownik informuje komputer, czy jego zgadywana liczba jest „Za duża”, „Za mała” czy „Trafiona”. Gra trwa maksymalnie 10 ruchów, a zakres zgadywania zawęża się przy każdej odpowiedzi użytkownika.
+Ten projekt to aplikacja webowa w Flasku, która implementuje grę „Zgadnij liczbę”, gdzie komputer zgaduje liczbę wybraną przez użytkownika z przedziału od 0 do 1000. Użytkownik informuje komputer, czy jego zgadywana liczba jest „Za duża”, „Za mała” czy „Trafiona”. Gra trwa maksymalnie 10 ruchów, a zakres zgadywania zawęża się przy każdej odpowiedzi użytkownika.
 
 # Struktura kodu
 HT Aplikacja zawiera trzy szablony HTML zapisane w formie tekstu w kodzie Python:
